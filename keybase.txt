@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/jorden
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lordqwerty.github.io
+  * I am jorden (https://keybase.io/jorden) on keybase.
+  * I have a public key ASCgjG7bcQaHN14BEgPtdA4lv5cqi4popCX8KvC8TqEooAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01014f0dd58f8fb06f4e4056c3f8bbac5f06e9a96558425854f8f4d618f9b4ecc5940a",
+      "host": "keybase.io",
+      "kid": "0120a08c6edb710687375e011203ed740e25bf972a8b8a68a425fc2af0bc4ea128a00a",
+      "uid": "e84c8c3facf2fc11545fc86a5ff20219",
+      "username": "jorden"
+    },
+    "merkle_root": {
+      "ctime": 1515944201,
+      "hash": "b4eaf721cc0bdd4f25de92908223c796e614458756d0c8f683c97106a0a299c7dae09a78dde282082c664b9424f0a125421e18a13d509c4609c98a83e5f9ca39",
+      "hash_meta": "4489c78f6e6d45cbd4288c61872e98707db9473afac55cbc1b83dfe9228bde6d",
+      "seqno": 1925753
+    },
+    "service": {
+      "hostname": "lordqwerty.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.39"
+  },
+  "ctime": 1515944218,
+  "expire_in": 504576000,
+  "prev": "ac36d2402e697b8968a51bb7eab2269f417ee6f8b68dda55c7fe8c8345e27241",
+  "seqno": 30,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgoIxu23EGhzdeARID7XQOJb+XKouKaKQl/CrwvE6hKKAKp3BheWxvYWTFA0t7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxNGYwZGQ1OGY4ZmIwNmY0ZTQwNTZjM2Y4YmJhYzVmMDZlOWE5NjU1ODQyNTg1NGY4ZjRkNjE4ZjliNGVjYzU5NDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYTA4YzZlZGI3MTA2ODczNzVlMDExMjAzZWQ3NDBlMjViZjk3MmE4YjhhNjhhNDI1ZmMyYWYwYmM0ZWExMjhhMDBhIiwidWlkIjoiZTg0YzhjM2ZhY2YyZmMxMTU0NWZjODZhNWZmMjAyMTkiLCJ1c2VybmFtZSI6ImpvcmRlbiJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxNTk0NDIwMSwiaGFzaCI6ImI0ZWFmNzIxY2MwYmRkNGYyNWRlOTI5MDgyMjNjNzk2ZTYxNDQ1ODc1NmQwYzhmNjgzYzk3MTA2YTBhMjk5YzdkYWUwOWE3OGRkZTI4MjA4MmM2NjRiOTQyNGYwYTEyNTQyMWUxOGExM2Q1MDljNDYwOWM5OGE4M2U1ZjljYTM5IiwiaGFzaF9tZXRhIjoiNDQ4OWM3OGY2ZTZkNDVjYmQ0Mjg4YzYxODcyZTk4NzA3ZGI5NDczYWZhYzU1Y2JjMWI4M2RmZTkyMjhiZGU2ZCIsInNlcW5vIjoxOTI1NzUzfSwic2VydmljZSI6eyJob3N0bmFtZSI6ImxvcmRxd2VydHkuZ2l0aHViLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzkifSwiY3RpbWUiOjE1MTU5NDQyMTgsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiYWMzNmQyNDAyZTY5N2I4OTY4YTUxYmI3ZWFiMjI2OWY0MTdlZTZmOGI2OGRkYTU1YzdmZThjODM0NWUyNzI0MSIsInNlcW5vIjozMCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDnbNKt4YzfUNv6WW7vKC5GvzTgH9/DxOKX5YXWo0aNsgw3JlgIXA8c9OsvBdx3kyTaHEhBj0JQGmfs7pjFoEUPqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgpJbNa614IMRg95isAjsK4qFLohkriVU1IS4gi009aSajdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jorden
+
+==================================================================
