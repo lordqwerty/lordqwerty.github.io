@@ -6,7 +6,7 @@ date: 2018-01-19
 comments: false
 ---
 
-<img src="../{{ site.authorpic }}" class="img-landing author-photo">
+<img src="{{ site.authorpic }}" class="img-landing author-photo">
 
 I am a research student in Secure Systems at the University of Surrey. My PhD is
 under the supervision of Helen Treharne and Steve Schneider, and is supported by
