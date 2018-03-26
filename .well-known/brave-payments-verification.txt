@@ -1,0 +1,4 @@
+This is a Brave Payments publisher verification file.
+
+Domain: jwhitefield.co.uk
+Token: 66794fce6509ecbadce7c7e21d79afd4d1592756649019cdaee3f30290fb498f
